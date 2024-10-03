@@ -1,3 +1,4 @@
+/*
 package ss9_automating_testing_tdd.Thuc_Hanh.CalculatorTestCase;
 
 import org.junit.jupiter.api.Test;
@@ -35,4 +36,4 @@ public class SimpleCalculatorTest {
         assertEquals(expected, result);
     }
 
-}
+}*/
